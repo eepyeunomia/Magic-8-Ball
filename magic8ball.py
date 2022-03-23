@@ -1,3 +1,4 @@
+import random
 title = '''
 
     __  __                        __                 ____         ___             __  __ 
@@ -49,7 +50,7 @@ def magicBall():
     "Very doubtful."]
     
     question = input("What do you want to ask the Magic 8 Ball? ")
-    if question == str(cmd):
+    if question == str(question):
         print(random.choice(responses))
         again = input("Run Again? ")
         if again == "yes":
