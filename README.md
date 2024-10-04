@@ -27,4 +27,4 @@ Y8GGGGGG8888888@@@@P.....
 ```
 
 
-# Custom Mode Coming Soon!
+# Custom Mode Coming ~~Soon~~ NEVERRRRRRRR!
